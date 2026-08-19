@@ -11,3 +11,4 @@ public class FlightBookingAppApplication {
 	}
 
 }
+ // when it comes to postgresql it will automatically create the  table but we have to create the database at all.
